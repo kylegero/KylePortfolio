@@ -1,0 +1,42 @@
+body {
+    background-image: url("https://scx2.b-cdn.net/gfx/news/hires/2019/4-space.jpg");
+    /* background-color: #cccccc; */
+   }
+.card {
+    opacity: .9;
+}
+
+.card-block{ 
+    opacity: 1;
+}
+
+.card-text {
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+}
+
+.list-group-item {
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+}
+
+.navbar-brand {
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+}
+h1 {
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+}
+
+h5 {
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+}
+
+h6 {
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+}
+
+
