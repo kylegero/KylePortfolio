@@ -6,10 +6,6 @@ body {
     opacity: .95;
 }
 
-.card-block{ 
-    opacity: .95;
-}
-
 .card-text {
     font-family: 'Quicksand', sans-serif;
     color: black;
